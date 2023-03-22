@@ -1,3 +1,11 @@
 # 15-Csharp-Recap-NIZAUSS
 
-Servus aus Soizburg und etz is da Kommentar BLA.
+Aufgaben:
+
+    Verschiedene Scripts erstellen
+    Variablen deklarieren und aufrufen
+    If-Statement schreiben
+    Methode deklarieren und aufrufen
+    einen Array erstellen
+
+Copyright by NIZAUSS :)
