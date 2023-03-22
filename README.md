@@ -8,4 +8,4 @@ Aufgaben:
 -Methode deklarieren und aufrufen
 -einen Array erstellen
 
-Copyright by NIZAUSS :)
+Copyright: NIZAUSS 
