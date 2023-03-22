@@ -47,5 +47,35 @@ public class MyEnumPrac : MonoBehaviour
         {
             Debug.Log(State.Cancel);
         }
+
+
+
+        int Number = 5;
+        Debug.Log("myNumber: " + Number);
+
+        for (int i = 0; i < 10; i++)
+        {
+            if (i < 5)
+            {
+                Debug.Log("i is less than 5: " + i);
+            }
+            else
+            {
+                Debug.Log("i is greater than or equal to 5: " + i);
+            }
+        }
+
+        int[] Array = { 1, 2, 3, 4, 5 };
+        Debug.Log("Array[3]: " + Array[3]);
+
+        ExampleMethod();
+
+    }
+
+    void ExampleMethod()
+    {
+        string[] myStrings = { "Hello", "World" };
+        Debug.Log(myStrings[0] + " " + myStrings[1]);
     }
 }
+
